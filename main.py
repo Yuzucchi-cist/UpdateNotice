@@ -1,4 +1,3 @@
-from ssl import enum_certificates
 import os.path
 import sys
 import csv
